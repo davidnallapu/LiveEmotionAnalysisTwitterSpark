@@ -7,10 +7,10 @@ import json
 
 
 # Set up your credentials
-consumer_key='NjMPdJl510sXXlqV1ub0RN32m'
-consumer_secret='krJtHkcwButxBx7dhNL4KKKD87fFWiDS9J3DpyXIRIAyskJvwR'
-access_token ='629349951-zYoZn8C7QdtQpKbF1vy784UeufqN5gbkK3VboIUe'
-access_secret='bYJ0cAho8nUEQYbp93oR0boCvaFETMTjFMK5wqiu0lC92'
+consumer_key=''
+consumer_secret=''
+access_token =''
+access_secret=''
 
 
 class TweetsListener(StreamListener):
