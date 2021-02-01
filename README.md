@@ -12,7 +12,6 @@ Functionalities include :
 3.Get a freuency count of Emotions and a graph
      </ul>
 
-    <br />
   </p>
 </p>
 
@@ -31,6 +30,7 @@ First open the terminal and go to the directory.
 1. Enter the term you want that all the tweets will have in TweetRead.py. Run TweetRead.py 
 2. Run alll cells on SparkTwitterStreaming.ipynb on Jupyter Notebook
 3. Run SparkEmotionAnalysisTwitter.ipynb
+4. Result should be like below
 
 <img src="Images/graph.png" alt="Logo">
 <br>
