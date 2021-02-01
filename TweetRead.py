@@ -41,7 +41,7 @@ def sendData(c_socket):
   auth.set_access_token(access_token, access_secret)
   # start sending data from the Streaming API 
   twitter_stream = Stream(auth, TweetsListener(c_socket))
-  twitter_stream.filter(track=['biden'], languages=["en"])
+  twitter_stream.filter(track=['snow'], languages=["en"])
 
 if __name__ == "__main__":
   s = socket.socket()         # Create a socket object
