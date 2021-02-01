@@ -2,17 +2,10 @@
 Live Emotion NLP analysis with <a href="https://nlp.johnsnowlabs.com">Spark NLP(John Snow Labs)</a>, Tweepy and Apache Spark.  by <a href="https://www.linkedin.com/in/davidnallapu">David Nallapu</a>.
 
 <br />
-<p align="center">
-
-  <h3 align="center">Live Emotion Analysis of Twitter with Spark </h3>
-
 Functionalities include :
 1.Filter out tweets containing a particular word
 2.Filter out tweets based on laguage
 3.Get a freuency count of Emotions and a graph
-     </ul>
-
-  </p>
 </p>
 
 <!-- GETTING STARTED -->
